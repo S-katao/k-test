@@ -1,2 +1,1 @@
-もっと楽しいREADME!
-もっと楽しいREADME!
+PUSHのテストように作ったbranchです。
